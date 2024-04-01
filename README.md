@@ -1,6 +1,6 @@
 # data_analysis_for_bus_stops_Brazil - This project intends to study and describe the routes and stops for bus lines for a specified city in Brazil.
 
-This project Pulls public data from public bus transportation in Sorocaba city.
+This project Pulls public data from public bus transportation in a specific city.
 
 This project is data exploration from data gathered by applications and gathered by the mayor's house.
 
